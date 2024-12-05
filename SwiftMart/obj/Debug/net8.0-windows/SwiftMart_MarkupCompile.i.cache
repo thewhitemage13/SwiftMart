@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\lolim\Desktop\SwiftMart\SwiftMart\App.xaml
-11407045341
+3-1266942977
 
-6509554117
+14961275622
 198-556154604
-MainWindow.xaml;
+MainWindow.xaml;SwiftMart\App.xaml;SwiftMart\MainWindow.xaml;
 
-False
+True
 

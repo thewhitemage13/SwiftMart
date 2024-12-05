@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwiftMart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7a589af343ca7e456ff62a8f2de95116e74b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwiftMart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwiftMart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
